@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @goz1985
+- 👋 Hi, I’m Isaac Kega Mwangi, I live in Nairobi Kenya.
 - 👀 I’m interested in ...Data Science, Machine Learning especially on the part of Interpretable machine learning.
 - 🌱 I’m currently learning ... Applying statistics in Machine learning using R, learning new R libraries and functionalities
 - 💞️ I’m looking to collaborate on ...Interpretable machine learning
